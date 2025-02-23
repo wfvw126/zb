@@ -3487,7 +3487,7 @@ MNB WORLD,https://live.mnb.mn/hls/mnb_world.stream.m3u8
 
 
 
-🔞午夜频道,#genre#
+🏆午夜频道,#genre#
 Zoom tv,http://185.236.229.62:9981/play/a02a
 日本映画専門チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 東映チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
@@ -3499,7 +3499,7 @@ INDIEFILM,http://suo.im/aD7Ry
 私房写真,https://luong.utako.moe/pigoo/index.m3u8#http://s.mrw.so/7DlBI
 3,http://mtw.so/5NweOs
 
-🔞台湾频道_1314,#genre#
+🏆台湾频道_1314,#genre#
 香蕉,http://s.mrw.so/94E7W
 惊艳,http://suo.im/8odLv
 潘多拉,http://suo.im/6TuSG
@@ -5702,7 +5702,7 @@ Ailee Anne,https://video2.51daao.com/btt1/2021/08/20210816/vCyieRDH/index.m3u8
 ?誕生日はエッチな下着でお祝いしてアゲル?,https://vip2.slbfsl.com/20230409/TE7KaEXS/index.m3u8
 ?抜ける映像ダラケ！ スペシャル版?,https://vip2.slbfsl.com/20230404/7cZhw0rr/index.m3u8
 
-🔞俄罗斯_52806,#genre#
+🏆俄罗斯_52806,#genre#
 EroLuxe Japanese,http://cdntv.online/high/ynemik5cl9/1694.mpeg
 femjoy,http://rhsbjv7k.tvclub.xyz/iptv/NVXWNPAY4LHG8S/6212/index.m3u8
 Кино 18+,http://rhsbjv7k.tvclub.xyz/iptv/NVXWNPAY4LHG8S/18075/index.m3u8
@@ -6420,7 +6420,7 @@ Adult TV (18+),http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/31707/index.m3u8
 PlayBoyz TV HD,http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/31709/index.m3u8
 88488848
 Ню Арт HD (18+),http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/31716/index.m3u8
-🔞乌克兰_52806,#genre#
+🏆乌克兰_52806,#genre#
 
 Шёлк,http://live.admuspeh.my/8129/index.m3u8?token=ojAvis3jNzswZE3x
 Brazzers TV,http://live.admuspeh.my/8131/index.m3u8?token=ojAvis3jNzswZE3x
