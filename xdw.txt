@@ -527,7 +527,7 @@ CBA经典,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cbajd
 掼蛋精英赛,http://211.101.234.24:866/aishang/migu.php/migu.php?id=gdjys
 
 电影频道,#genre#
-邵氏影院台,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/douyu.php?id=4246519
+
 邵氏影院台,http://php.666230.xyz/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/proxy/斗鱼.php?id=4246519
 緯來電影台,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
 龍華電影台,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
