@@ -1,11 +1,11 @@
 {
-  "spider": "",
+  "spider": "http://yun.yunqiji.vip/min/xmbjm.jar",
   "wallpaper":"https://bg.s.welsun.win/api",
    "lives":[
         {
             "name":"World TV",
             "type":0,
-            "url":"https://d.kstore.space/download/4620/zbz.txt",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/wfvw126/zb/refs/heads/main/xdw.txt",
             "playerType":1
         }
     ],
