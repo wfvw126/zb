@@ -1,5 +1,5 @@
 {
-  "spider": "http://yun.yunqiji.vip/min/xmbjm.jar",
+  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/G7jzf7OK.png;md5;b29aa6ae932e739c2d440717f84b72c5",
   "wallpaper":"https://bg.s.welsun.win/api",
    "lives":[
         {
