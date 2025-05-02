@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.com/wfvw126/TVbox-interface/blob/main/wqcatyuanban.jar",
+  "spider": "https://github.com/wfvw126/zb/blob/main/wqcatyuanban.jar",
 
 
   "sites": [
