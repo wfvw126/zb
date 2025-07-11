@@ -1,0 +1,248 @@
+{
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+	"homepage": "https://github.com/hjdhnx/hipy-server",
+	"homeLogo": "https://github.moeyy.xyz/https://github.com/leiyou-li/photo/blob/main/img.png?raw=true",
+	"spider":"http://211.154.28.50:5898/kkw/spider.jar",
+        "warningText":"提示:
+            资源来源于网络，不承担任何影视资源的存储
+            不参与收费项目，纯测试，不确定用多久",
+"lives": [
+    {
+      "name": "秒播直播源按ok键切换",
+      "type": 0,
+      "url": "http://211.154.28.50:5898/2025.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "秒播直播源1点击切换",
+      "type": 0,
+      "url": "http://tvbox.bplaced.net/index.php?key=55555",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "流畅源2点击切换",
+      "type": 0,
+      "url": "http://iptv.diyp.site/diyp.php",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "流畅源3点击切换",
+      "type": 0,
+      "url": "http://8.138.7.223/51.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "流畅源4点击切换",
+      "type": 0,
+      "url": "http://zhibo.feylen.top/fltv/users/user_channel.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "秒播源5点击切换",
+      "type": 0,
+      "url": "http://211.154.28.50:5898/20251.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "秒播源6点击切换",
+      "type": 0,
+      "url": "http://211.154.28.50:5898/20252.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "全球tv源7点击切换",
+      "type": 0,
+      "url": "http://211.154.28.50:5898/qqtv.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    }
+  ],
+"ijk":
+	[{"group":"软解码","options":
+		[{"category":4,"name":"opensles","value":"0"},
+		{"category":4,"name":"overlay-format","value":"842225234"},
+		{"category":4,"name":"framedrop","value":"1"},
+		{"category":4,"name":"soundtouch","value":"1"},
+		{"category":4,"name":"start-on-prepared","value":"1"},
+		{"category":1,"name":"http-detect-range-support","value":"0"},
+		{"category":1,"name":"fflags","value":"fastseek"},
+		{"category":2,"name":"skip_loop_filter","value":"48"},
+		{"category":4,"name":"reconnect","value":"1"},
+		{"category":4,"name":"max-buffer-size","value":"5242880"},
+		{"category":4,"name":"enable-accurate-seek","value":"0"},
+		{"category":4,"name":"mediacodec","value":"0"},
+		{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
+		{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
+		{"category":4,"name":"mediacodec-hevc","value":"0"},
+		{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
+	{"group":"硬解码","options":
+		[{"category":4,"name":"opensles","value":"0"},
+		{"category":4,"name":"overlay-format","value":"842225234"},
+		{"category":4,"name":"framedrop","value":"1"},
+		{"category":4,"name":"soundtouch","value":"1"},
+		{"category":4,"name":"start-on-prepared","value":"1"},
+		{"category":1,"name":"http-detect-range-support","value":"0"},
+		{"category":1,"name":"fflags","value":"fastseek"},
+		{"category":2,"name":"skip_loop_filter","value":"48"},
+		{"category":4,"name":"reconnect","value":"1"},
+		{"category":4,"name":"max-buffer-size","value":"5242880"},
+		{"category":4,"name":"enable-accurate-seek","value":"0"},
+		{"category":4,"name":"mediacodec","value":"1"},
+		{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
+		{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
+		{"category":4,"name":"mediacodec-hevc","value":"1"},
+		{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+	"sites": [
+     {"key": "txsp","name": "魔方视界-无法播放请切换💥","type": 3,"api": "https://gitee.com/zxmoyun/shared-warehouse/raw/master/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "https://gitee.com/zxmoyun/shared-warehouse/raw/master/js/txsp.js"},
+     { "key": "mgtv测试","name": "魔方线路4K","type": 3,"api": "https://gitee.com/zxmoyun/shared-warehouse/raw/master/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gitee.com/zxmoyun/shared-warehouse/raw/master/js/mgtv.js"},
+     {
+      "key": "影探",
+      "name": "YS|弹幕",
+      "type": 3,
+      "api": "csp_ApplvDV2",
+      "jar": "http://103.45.162.207:25252/tvbox/custom_spider.jar",
+      "ext": "0###WH5hCFZ2WEJ1BH1CVFxmQVt+Xw1QamUGdVt9TXkAcUNYZQZPVHp2QmBucU95S3pecARbCFF6dgJ1TwpQVnp1AVtlBktQalsBXX5qTWwAA0JgbnFIeQBbQWNxZQxlAXVcWlh9VFYCW19pYnZVbGp1Q1hhYgF4ZnZDdHJyVVFfW19jYQpuVl9ADQ=="
+    },
+     {
+      "key": "影探2",
+      "name": "YS4k",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://csjt.lyyytv.cn/api.php/app/"
+    },
+    {
+      "key": "随缘",
+      "name": "SY4k",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://gg.qsaiv.cn:1669/api.php/app/"
+    },
+     {"key":"瓜子秒播","name":"💥瓜子秒播线路","type":3,"jar":"https://gitee.com/zxmoyun/shared-warehouse/raw/master/jar/spider.jar","api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+     {"key": "changeable","name": "💥4K专线3","type": 3,"api": "https://gitee.com/zxmoyun/shared-warehouse/raw/master/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gitee.com/zxmoyun/shared-warehouse/raw/master/js/菜狗[官].js"}
+	],
+	"parses": [
+        {"name":"4K专解3","type":1,"url":"http://kcjx.zwzs.fun/json.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+
+
+{"name":"魔方4k","type":"1","url":"http://moyun.shanhaiguanwu.com/my4k.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
+{"name":"蓝光解析","type":"1","url":"https://jx.playerjy.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}}
+
+
+{"name":"4K专解0","type":1,"url":"http://8.155.50.80/xiayexk.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+
+		{
+			"name": "虾米",
+			"url": "https://jx.xmflv.com/?url=",
+			"type": 0,
+			"ext": {
+				"flag": [
+					"qiyi",
+					"imgo",
+					"爱奇艺",
+					"奇艺",
+					"qq",
+					"qq 预告及花絮",
+					"腾讯",
+					"youku",
+					"优酷",
+					"pptv",
+					"PPTV",
+					"letv",
+					"乐视",
+					"leshi",
+					"mgtv",
+					"芒果",
+					"sohu",
+					"xigua",
+					"fun",
+					"风行"
+				]
+			},
+			"header": {
+				"User-Agent": "Mozilla/5.0"
+			}
+		},
+		{
+			"name": "虾米2",
+			"url": "https://jx.xmflv.cc/?url=",
+			"type": 0,
+			"ext": {
+				"flag": [
+					"qiyi",
+					"imgo",
+					"爱奇艺",
+					"奇艺",
+					"qq",
+					"qq 预告及花絮",
+					"腾讯",
+					"youku",
+					"优酷",
+					"pptv",
+					"PPTV",
+					"letv",
+					"乐视",
+					"leshi",
+					"mgtv",
+					"芒果",
+					"sohu",
+					"xigua",
+					"fun",
+					"风行"
+				]
+			},
+			"header": {
+				"User-Agent": "Mozilla/5.0"
+			}
+		}
+	],
+	"flags": [
+		"imgo",
+		"youku",
+		"qq",
+		"qq 预告及花絮",
+		"iqiyi",
+		"qiyi",
+		"fun",
+		"letv",
+		"leshi",
+		"sohu",
+		"tudou",
+		"xigua",
+		"cntv",
+		"1905",
+		"pptv",
+		"mgtv",
+		"wasu",
+		"bilibili",
+		"renrenmi"
+	]
+}
