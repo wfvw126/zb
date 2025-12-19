@@ -2222,6 +2222,7 @@ happy,http://txt.tugu.xyz/888.php?id=CCTV-2
 彩虹电影,http://txt.tugu.xyz/888.php?id=CCTV-6
 彩虹k,http://txt.tugu.xyz/888.php?id=CCTV-7
 彩虹e,http://txt.tugu.xyz/888.php?id=CCTV-8
+松视4台,http://livepull2.longone.com.cn/live/ad71c8deb68126dc6a6ca511064d926f.flv
 松視4,http://txt.tugu.xyz/888.php?id=CCTV-9
 松视3,http://txt.tugu.xyz/888.php?id=CCTV-10
 松視2,http://txt.tugu.xyz/888.php?id=CCTV-11
